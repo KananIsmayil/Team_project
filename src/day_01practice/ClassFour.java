@@ -1,8 +1,8 @@
 package day_01practice;
 
-public class NewClassFour {
+public class ClassFour {
     public static void main(String[] args) {
-        //ajhsdasd
+        //kqjwkasd
     }
 
 }
